@@ -1,1 +1,1 @@
-https://paste.ee/r/CSv7YKnh
+loadstring(game:HttpGet("https://raw.githubusercontent.com"))()
